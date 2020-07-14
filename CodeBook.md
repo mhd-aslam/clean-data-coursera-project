@@ -25,7 +25,7 @@ The variables are the following:
     
 The following variabless are the average value of the feature for each activity and subject:
 
-**tBodyAcc-mean()-X**
+**tBodyAcc-mean()-X**\
 **tBodyAcc-mean()-Y**
 **tBodyAcc-mean()-Z**
 **tBodyAcc-std()-X**
