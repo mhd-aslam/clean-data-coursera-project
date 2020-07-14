@@ -10,6 +10,7 @@ The variables are the following:
     2 - Subject 2
     3 - Subject 3
     ...............
+    28 - Subject 28
     29 - Subject 29
     30 - Subject 30
     
