@@ -1,8 +1,8 @@
-#Readme
+# Readme
 
 This is a project to get and clean a data set from the below dataset.
 
-#The UCI HAR Dataset
+# The UCI HAR Dataset
 
 The data is obtained from experiments carried out with a group of 30 volunteers within an age bracket of 19-48 years to recognize the human activity. Each person does different activities such as WALKING, LAYING, STANDING etc.
 
@@ -24,6 +24,6 @@ The script does the following:
     4. Appropriately labels the data set with descriptive variable names.
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#CodeBook.md
+# CodeBook.md
 
 The CodeBook.md file contains the details regarding the variables in the tidy data set.
