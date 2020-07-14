@@ -5,23 +5,25 @@ The final data in "avg_data.txt" file contains 180 observations and 81 variables
 The variables are the following:
 
 **Subject**
-    The variable contains an integer between 1 and 30 inclusive corresponding to the respective subject out of the 30 subject who participated in the study.\
-    1 - Subject 1\
-    2 - Subject 2\
-    3 - Subject 3\
-    ...............\
-    28 - Subject 28\
-    29 - Subject 29\
-    30 - Subject 30
+
+     The variable contains an integer between 1 and 30 inclusive corresponding to the respective subject out of the 30 subject who participated in the study.\
+     1 - Subject 1\
+     2 - Subject 2\
+     3 - Subject 3\
+     ...............\
+     28 - Subject 28\
+     29 - Subject 29\
+     30 - Subject 30
     
 **Activity**
-    The variable corresponds to the activity undertaken by the subject.\
-    LAYING\
-    SITTING\
-    STANDING\
-    WALKING\
-    WALKING_DOWNSTAIRS\
-    WALKING_UPSTAIRS
+
+     The variable corresponds to the activity undertaken by the subject.\
+     LAYING\
+     SITTING\
+     STANDING\
+     WALKING\
+     WALKING_DOWNSTAIRS\
+     WALKING_UPSTAIRS
     
 The following variabless are the average value of the feature for each activity and subject:
 
